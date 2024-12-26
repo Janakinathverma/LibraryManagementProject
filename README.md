@@ -133,5 +133,5 @@ You will see the following menu:
 ---
 
 ## **Contact**
-For any queries or contributions, please reach out at: [YourEmail@example.com]
+For any queries or contributions, please reach out at: janakinathv@gmail.com
 
